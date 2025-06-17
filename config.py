@@ -23,7 +23,7 @@ API_HASH = environ.get("API_HASH", "")
 BOT_TOKEN = environ.get("BOT_TOKEN", "")
 
 PICS = (environ.get('PICS', 'https://graph.org/file/33dc19579108dcc7fdc96-cf085b42d30c72ba7d.jpg')).split() # Bot Start Picture
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6747520930').split()]
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6747520930 , 7475888984').split()]
 BOT_USERNAME = environ.get("BOT_USERNAME", "XB_Filesop_bot") # without @
 PORT = environ.get("PORT", "8080")
 
