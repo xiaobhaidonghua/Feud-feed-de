@@ -53,7 +53,7 @@ If You Want To Remove Api Then Copy This And Send To Bot - `/api None`"""
 
 🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/XB_Jitesh>Jitu Bhai</a>
 
-👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/ongoingdonghuaschat>Chat</a>
+👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/ongoingdonghuachat>Chat</a>
 
 📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/ongoingdonghuas>Ongoing Donghua</a></b>
 """
